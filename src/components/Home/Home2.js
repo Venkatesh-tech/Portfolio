@@ -24,7 +24,7 @@ function Home2() {
               and Engineering. I am a vivacious tech enthusiast and a
               self-taught programmer. I am an enthusiastic and social person who
               loves to take up new challenges and learn new skills. I love
-              meeting new people, swapping ideas, and spreading knowledge.
+              meeting new people, swapping ideas, and spreading knowledge...
               <br />
               {/* <br />I am fluent in classics like
               <i>
